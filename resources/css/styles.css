@@ -1,0 +1,15 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+
+.container{
+    display: flex;
+    border: 3px solid red;   /*just for editing purpose*/
+}
+
+
+img {
+    height: 100px;		/*this too*/
+}
